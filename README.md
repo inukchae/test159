@@ -8,10 +8,8 @@
 
 ## 🌟 Features
 
-- 🔒 **Secure and Reliable**: Features for ensuring data integrity and security.
-- 🚀 **High Performance**: Optimized to handle high volume of transactions smoothly.
-- 📱 **Responsive Design**: Fully functional across devices and screen sizes.
-- ⚙️ **Configurable**: Customizable settings for various user preferences.
+ 동시에  10,000명의 요청에 대해서 선착순 100명의 요청만 예약 하는 서비스 로직
+
 
 ---
 
@@ -29,6 +27,7 @@
 ---
 
 ## 📊 UML Diagram
+<img width="828" alt="image" src="https://github.com/user-attachments/assets/e750994c-1a9a-45e7-ad2c-c9cc2962a24a">
 
 ```plantuml
 @startuml
