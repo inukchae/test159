@@ -5,9 +5,15 @@
 팬참여 플랫폼 
 ---
 
+
+
+
 ## 🌟 Features
  동시에  10,000명의 요청에 대해서 선착순 100명의 요청만 예약 하는 서비스 로직
 ---
+
+
+
 
 ## 🛠️ Technologies Used
 - **Backend**: Java, Spring Boot, JPA, Kafka
