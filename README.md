@@ -1,4 +1,5 @@
-# weverse
+
+
 위버스 컴퍼니 팬참여 플랫폼 과제
 
 # 📌 Project Name
