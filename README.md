@@ -16,6 +16,9 @@
 ## 🛠️ Technologies Used
 - **Backend**: Java, Spring Boot, JPA, Kafka
 - **Database**: H2 Database, Redis
+
+1.데이터베이스 접근을 기다리지 않게 하고, 데이터베이스의 락으로 인해 발생할 수 있는 요청 대기 문제를 방지하기 위해, 메시지 큐(카프카)를 이용한 비동기 처리
+2.여러 스레드, 혹은 여러 인스턴스로 부터의 선착순 100명을 카운팅하기 위한 동시성 처리를 위해  Redis의 INCR 명령을 통한 원자적 처리
 ---
 
 
