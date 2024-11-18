@@ -14,6 +14,8 @@
 
 ## 🌟 Features
  동시에  10,000명의 요청에 대해서 선착순 100명의 요청만 예약 하는 서비스 로직
+
+ 
 ---
 
 
@@ -33,6 +35,30 @@
 
 ## 📊 UML Diagram
 <img width="836" alt="image" src="https://github.com/user-attachments/assets/a4d8edd5-cd08-468c-a137-58abec239269">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
