@@ -1,4 +1,4 @@
-<img width="411" alt="image" src="https://github.com/user-attachments/assets/e7ce2766-a711-4a21-8f57-8e1a9c0d3f20"># weverse
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/4f7c20cd-5da4-4fbb-a7f3-3f29451ac135"><img width="411" alt="image" src="https://github.com/user-attachments/assets/e7ce2766-a711-4a21-8f57-8e1a9c0d3f20"># weverse
 위버스 컴퍼니 팬참여 플랫폼 과제
 
 # 📌 Project Name
@@ -23,7 +23,9 @@
 
 ## 📂 Project Structure
 
-<img width="411" alt="image" src="https://github.com/user-attachments/assets/66293168-1dd9-46a3-9542-7cc0ca481fe4">
+![Uploading image.png…]()
+
+
 
 
 ---
