@@ -34,7 +34,8 @@
 
 ## 📈 Test Cases
 
-
+<img width="1619" alt="image" src="https://github.com/user-attachments/assets/d20e6d7e-1ce5-4ca0-805b-ea6a883cc641">
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/db39e2f1-3322-421e-ae53-c4b8c42cb86c">
 
 
 
