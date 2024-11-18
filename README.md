@@ -26,10 +26,31 @@
 <img width="408" alt="image" src="https://github.com/user-attachments/assets/5a58d311-9dde-4640-b1e0-6a8705cfbbdf">
 
 
-
-
-
 ---
+
+## 📊 UML Diagram
+
+```plantuml
+@startuml
+actor User
+participant "ReservationController" as RC
+participant "ReservationService" as RS
+
+User -> RC: Send reservation request
+RC -> RS: Process reservation request
+RS -> RC: Return reservation result
+RC -> User: Send reservation response
+@enduml
+```
+
+This PlantUML diagram shows the interaction between a user and the reservation system. The user sends a request to the `ReservationController`, which then communicates with the `ReservationService` to process the reservation and return the result.
+
+
+
+
+
+
+
 
 
 
