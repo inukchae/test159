@@ -27,7 +27,7 @@
 ---
 
 ## 📊 UML Diagram
-<img width="828" alt="image" src="https://github.com/user-attachments/assets/e750994c-1a9a-45e7-ad2c-c9cc2962a24a">
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/a4d8edd5-cd08-468c-a137-58abec239269">
 
 ```plantuml
 @startuml
